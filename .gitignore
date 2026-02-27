@@ -1,0 +1,29 @@
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+
+# Node
+node_modules/
+dist/
+build/
+.npm/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+venv2/
+.venv/
+env/
+.env_python/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
