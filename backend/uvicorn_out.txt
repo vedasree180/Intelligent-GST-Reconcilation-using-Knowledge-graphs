@@ -1,0 +1,37 @@
+INFO:     127.0.0.1:52744 - "POST /api/v1/auth/data HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52746 - "GET /api/v1/auth/vendors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52748 - "GET /api/v1/auth/agent/investigate/07DEFGH9012I3K4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/vendors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/vendors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/scores/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/scores/29ABCDE1234F1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/scores/07DEFGH9012I3K4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/scores/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/scores/29ABCDE1234F1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/scores/07DEFGH9012I3K4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64959 - "GET /api/v1/auth/agent/investigate/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56395 - "GET /cluster/29ABCDE1234F1Z5 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56395 - "GET /cluster/29ABCDE1234F1Z5 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56395 - "GET /scores/27XYZAB5678C1Z2 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/vendors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/vendors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/scores/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/scores/29ABCDE1234F1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/scores/07DEFGH9012I3K4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/scores/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/scores/29ABCDE1234F1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/scores/07DEFGH9012I3K4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60189 - "GET /api/v1/auth/agent/investigate/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53300 - "GET /cluster/29ABCDE1234F1Z5 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53300 - "GET /cluster/29ABCDE1234F1Z5 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53300 - "GET /api/v1/auth/agent/investigate/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49213 - "GET /cluster/29ABCDE1234F1Z5 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49213 - "GET /cluster/29ABCDE1234F1Z5 HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:63324 - "GET /api/v1/auth/vendors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63324 - "GET /api/v1/auth/vendors HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63324 - "GET /api/v1/auth/scores/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63324 - "GET /api/v1/auth/scores/29ABCDE1234F1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63324 - "GET /api/v1/auth/scores/07DEFGH9012I3K4 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63324 - "GET /api/v1/auth/scores/27XYZAB5678C1Z2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63324 - "GET /api/v1/auth/scores/29ABCDE1234F1Z5 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63324 - "GET /api/v1/auth/scores/07DEFGH9012I3K4 HTTP/1.1" 200 OK

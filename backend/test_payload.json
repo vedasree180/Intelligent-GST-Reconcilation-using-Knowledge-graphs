@@ -1,0 +1,1 @@
+[{"invoice_id": "INV-001", "buyer_gstin": "29ABCDE1234F1Z5", "supplier_gstin": "27XYZAB5678C1Z2", "amount": 100000, "gst_amount": 18000}, {"invoice_id": "INV-002", "buyer_gstin": "27XYZAB5678C1Z2", "supplier_gstin": "07DEFGH9012I3K4", "amount": 50000, "gst_amount": 9000}]
